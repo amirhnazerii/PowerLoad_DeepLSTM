@@ -5,5 +5,5 @@
 ## A. Data Preparation and Preprocessing
 The load dataset used for the training is one year of load demand from Jan-1st 2020 to Jan-1st 2021 borrowed from The New York Independent System Operator that is cleaned and uploaded as a CSV file on this repository. The load datapoints are recorded with a time interval of 5 minutes. In the first phase of the data preparation the dataset it cleaned by removing the null values, outliers, duplicated and missing timestamps. Fig.1 shows the dataset load demand for a year.
 
-![historical_load](https://github.com/amirhnazerii/PowerLoad_DeepLSTM/blob/main/Images_onGit/LoadData.png | width=100)
-
+<!-- ![historical_load](https://github.com/amirhnazerii/PowerLoad_DeepLSTM/blob/main/Images_onGit/LoadData.png) -->
+<p align="center"><img src="/Images_onGit/LoadData.png" width=500></p>
